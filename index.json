@@ -4,7 +4,8 @@
         "code": "AD",
         "emoji": "🇦🇩",
         "unicode": "U+1F1E6 U+1F1E9",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ad.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ad.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ad.png",
         "dial_code": "+376"
     },
     {
@@ -12,7 +13,8 @@
         "code": "AE",
         "emoji": "🇦🇪",
         "unicode": "U+1F1E6 U+1F1EA",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ae.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ae.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ae.png",
         "dial_code": "+971"
     },
     {
@@ -20,7 +22,8 @@
         "code": "AF",
         "emoji": "🇦🇫",
         "unicode": "U+1F1E6 U+1F1EB",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/af.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/af.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/af.png",
         "dial_code": "+93"
     },
     {
@@ -28,7 +31,8 @@
         "code": "AG",
         "emoji": "🇦🇬",
         "unicode": "U+1F1E6 U+1F1EC",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ag.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ag.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ag.png",
         "dial_code": "+1268"
     },
     {
@@ -36,7 +40,8 @@
         "code": "AI",
         "emoji": "🇦🇮",
         "unicode": "U+1F1E6 U+1F1EE",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ai.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ai.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ai.png",
         "dial_code": "+1264"
     },
     {
@@ -44,7 +49,8 @@
         "code": "AL",
         "emoji": "🇦🇱",
         "unicode": "U+1F1E6 U+1F1F1",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/al.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/al.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/al.png",
         "dial_code": "+355"
     },
     {
@@ -52,7 +58,8 @@
         "code": "AM",
         "emoji": "🇦🇲",
         "unicode": "U+1F1E6 U+1F1F2",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/am.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/am.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/am.png",
         "dial_code": "+374"
     },
     {
@@ -60,7 +67,8 @@
         "code": "AO",
         "emoji": "🇦🇴",
         "unicode": "U+1F1E6 U+1F1F4",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ao.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ao.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ao.png",
         "dial_code": "+244"
     },
     {
@@ -68,7 +76,8 @@
         "code": "AQ",
         "emoji": "🇦🇶",
         "unicode": "U+1F1E6 U+1F1F6",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/aq.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/aq.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/aq.png",
         "dial_code": "+672"
     },
     {
@@ -76,7 +85,8 @@
         "code": "AR",
         "emoji": "🇦🇷",
         "unicode": "U+1F1E6 U+1F1F7",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ar.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ar.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ar.png",
         "dial_code": "+54"
     },
     {
@@ -84,7 +94,8 @@
         "code": "AS",
         "emoji": "🇦🇸",
         "unicode": "U+1F1E6 U+1F1F8",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/as.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/as.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/as.png",
         "dial_code": "+1684"
     },
     {
@@ -92,7 +103,8 @@
         "code": "AT",
         "emoji": "🇦🇹",
         "unicode": "U+1F1E6 U+1F1F9",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/at.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/at.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/at.png",
         "dial_code": "+43"
     },
     {
@@ -100,7 +112,8 @@
         "code": "AU",
         "emoji": "🇦🇺",
         "unicode": "U+1F1E6 U+1F1FA",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/au.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/au.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/au.png",
         "dial_code": "+61"
     },
     {
@@ -108,7 +121,8 @@
         "code": "AW",
         "emoji": "🇦🇼",
         "unicode": "U+1F1E6 U+1F1FC",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/aw.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/aw.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/aw.png",
         "dial_code": "+297"
     },
     {
@@ -116,7 +130,8 @@
         "code": "AX",
         "emoji": "🇦🇽",
         "unicode": "U+1F1E6 U+1F1FD",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ax.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ax.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ax.png",
         "dial_code": "+358"
     },
     {
@@ -124,7 +139,8 @@
         "code": "AZ",
         "emoji": "🇦🇿",
         "unicode": "U+1F1E6 U+1F1FF",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/az.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/az.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/az.png",
         "dial_code": "+994"
     },
     {
@@ -132,7 +148,8 @@
         "code": "BA",
         "emoji": "🇧🇦",
         "unicode": "U+1F1E7 U+1F1E6",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ba.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ba.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ba.png",
         "dial_code": "+387"
     },
     {
@@ -140,7 +157,8 @@
         "code": "BB",
         "emoji": "🇧🇧",
         "unicode": "U+1F1E7 U+1F1E7",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bb.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bb.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/bb.png",
         "dial_code": "+1246"
     },
     {
@@ -148,7 +166,8 @@
         "code": "BD",
         "emoji": "🇧🇩",
         "unicode": "U+1F1E7 U+1F1E9",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bd.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bd.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/bd.png",
         "dial_code": "+880"
     },
     {
@@ -156,7 +175,8 @@
         "code": "BE",
         "emoji": "🇧🇪",
         "unicode": "U+1F1E7 U+1F1EA",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/be.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/be.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/be.png",
         "dial_code": "+32"
     },
     {
@@ -164,7 +184,8 @@
         "code": "BF",
         "emoji": "🇧🇫",
         "unicode": "U+1F1E7 U+1F1EB",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bf.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bf.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/bf.png",
         "dial_code": "+226"
     },
     {
@@ -172,7 +193,8 @@
         "code": "BG",
         "emoji": "🇧🇬",
         "unicode": "U+1F1E7 U+1F1EC",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bg.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bg.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/bg.png",
         "dial_code": "+359"
     },
     {
@@ -180,7 +202,8 @@
         "code": "BH",
         "emoji": "🇧🇭",
         "unicode": "U+1F1E7 U+1F1ED",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bh.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bh.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/bh.png",
         "dial_code": "+973"
     },
     {
@@ -188,7 +211,8 @@
         "code": "BI",
         "emoji": "🇧🇮",
         "unicode": "U+1F1E7 U+1F1EE",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bi.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bi.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/bi.png",
         "dial_code": "+257"
     },
     {
@@ -196,7 +220,8 @@
         "code": "BJ",
         "emoji": "🇧🇯",
         "unicode": "U+1F1E7 U+1F1EF",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bj.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bj.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/bj.png",
         "dial_code": "+229"
     },
     {
@@ -204,7 +229,8 @@
         "code": "BL",
         "emoji": "🇧🇱",
         "unicode": "U+1F1E7 U+1F1F1",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bl.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bl.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/bl.png",
         "dial_code": "+590"
     },
     {
@@ -212,7 +238,8 @@
         "code": "BM",
         "emoji": "🇧🇲",
         "unicode": "U+1F1E7 U+1F1F2",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bm.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bm.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/bm.png",
         "dial_code": "+1441"
     },
     {
@@ -220,7 +247,8 @@
         "code": "BN",
         "emoji": "🇧🇳",
         "unicode": "U+1F1E7 U+1F1F3",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bn.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bn.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/bn.png",
         "dial_code": "+673"
     },
     {
@@ -228,7 +256,8 @@
         "code": "BO",
         "emoji": "🇧🇴",
         "unicode": "U+1F1E7 U+1F1F4",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bo.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bo.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/bo.png",
         "dial_code": "+591"
     },
     {
@@ -236,7 +265,8 @@
         "code": "BQ",
         "emoji": "🇧🇶",
         "unicode": "U+1F1E7 U+1F1F6",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bq.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bq.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/bq.png",
         "dial_code": "+599"
     },
     {
@@ -244,7 +274,8 @@
         "code": "BR",
         "emoji": "🇧🇷",
         "unicode": "U+1F1E7 U+1F1F7",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/br.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/br.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/br.png",
         "dial_code": "+55"
     },
     {
@@ -252,7 +283,8 @@
         "code": "BS",
         "emoji": "🇧🇸",
         "unicode": "U+1F1E7 U+1F1F8",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bs.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bs.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/bs.png",
         "dial_code": "+1242"
     },
     {
@@ -260,7 +292,8 @@
         "code": "BT",
         "emoji": "🇧🇹",
         "unicode": "U+1F1E7 U+1F1F9",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bt.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bt.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/bt.png",
         "dial_code": "+975"
     },
     {
@@ -268,7 +301,8 @@
         "code": "BV",
         "emoji": "🇧🇻",
         "unicode": "U+1F1E7 U+1F1FB",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bv.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bv.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/bv.png",
         "dial_code": "+47"
     },
     {
@@ -276,7 +310,8 @@
         "code": "BW",
         "emoji": "🇧🇼",
         "unicode": "U+1F1E7 U+1F1FC",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bw.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bw.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/bw.png",
         "dial_code": "+267"
     },
     {
@@ -284,7 +319,8 @@
         "code": "BY",
         "emoji": "🇧🇾",
         "unicode": "U+1F1E7 U+1F1FE",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/by.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/by.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/by.png",
         "dial_code": "+375"
     },
     {
@@ -292,7 +328,8 @@
         "code": "BZ",
         "emoji": "🇧🇿",
         "unicode": "U+1F1E7 U+1F1FF",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bz.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/bz.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/bz.png",
         "dial_code": "+501"
     },
     {
@@ -300,7 +337,8 @@
         "code": "CA",
         "emoji": "🇨🇦",
         "unicode": "U+1F1E8 U+1F1E6",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ca.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ca.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ca.png",
         "dial_code": "+1"
     },
     {
@@ -308,7 +346,8 @@
         "code": "CC",
         "emoji": "🇨🇨",
         "unicode": "U+1F1E8 U+1F1E8",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cc.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cc.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/cc.png",
         "dial_code": "+61"
     },
     {
@@ -316,7 +355,8 @@
         "code": "CD",
         "emoji": "🇨🇩",
         "unicode": "U+1F1E8 U+1F1E9",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cd.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cd.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/cd.png",
         "dial_code": "+243"
     },
     {
@@ -324,7 +364,8 @@
         "code": "CF",
         "emoji": "🇨🇫",
         "unicode": "U+1F1E8 U+1F1EB",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cf.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cf.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/cf.png",
         "dial_code": "+236"
     },
     {
@@ -332,7 +373,8 @@
         "code": "CG",
         "emoji": "🇨🇬",
         "unicode": "U+1F1E8 U+1F1EC",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cg.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cg.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/cg.png",
         "dial_code": "+242"
     },
     {
@@ -340,7 +382,8 @@
         "code": "CH",
         "emoji": "🇨🇭",
         "unicode": "U+1F1E8 U+1F1ED",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ch.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ch.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ch.png",
         "dial_code": "+41"
     },
     {
@@ -348,7 +391,8 @@
         "code": "CI",
         "emoji": "🇨🇮",
         "unicode": "U+1F1E8 U+1F1EE",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ci.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ci.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ci.png",
         "dial_code": "+225"
     },
     {
@@ -356,7 +400,8 @@
         "code": "CK",
         "emoji": "🇨🇰",
         "unicode": "U+1F1E8 U+1F1F0",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ck.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ck.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ck.png",
         "dial_code": "+682"
     },
     {
@@ -364,7 +409,8 @@
         "code": "CL",
         "emoji": "🇨🇱",
         "unicode": "U+1F1E8 U+1F1F1",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cl.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cl.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/cl.png",
         "dial_code": "+56"
     },
     {
@@ -372,7 +418,8 @@
         "code": "CM",
         "emoji": "🇨🇲",
         "unicode": "U+1F1E8 U+1F1F2",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cm.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cm.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/cm.png",
         "dial_code": "+237"
     },
     {
@@ -380,7 +427,8 @@
         "code": "CN",
         "emoji": "🇨🇳",
         "unicode": "U+1F1E8 U+1F1F3",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cn.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cn.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/cn.png",
         "dial_code": "+86"
     },
     {
@@ -388,7 +436,8 @@
         "code": "CO",
         "emoji": "🇨🇴",
         "unicode": "U+1F1E8 U+1F1F4",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/co.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/co.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/co.png",
         "dial_code": "+57"
     },
     {
@@ -396,7 +445,8 @@
         "code": "CR",
         "emoji": "🇨🇷",
         "unicode": "U+1F1E8 U+1F1F7",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cr.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cr.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/cr.png",
         "dial_code": "+506"
     },
     {
@@ -404,7 +454,8 @@
         "code": "CU",
         "emoji": "🇨🇺",
         "unicode": "U+1F1E8 U+1F1FA",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cu.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cu.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/cu.png",
         "dial_code": "+53"
     },
     {
@@ -412,7 +463,8 @@
         "code": "CV",
         "emoji": "🇨🇻",
         "unicode": "U+1F1E8 U+1F1FB",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cv.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cv.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/cv.png",
         "dial_code": "+238"
     },
     {
@@ -420,7 +472,8 @@
         "code": "CW",
         "emoji": "🇨🇼",
         "unicode": "U+1F1E8 U+1F1FC",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cw.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cw.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/cw.png",
         "dial_code": "+559"
     },
     {
@@ -428,7 +481,8 @@
         "code": "CX",
         "emoji": "🇨🇽",
         "unicode": "U+1F1E8 U+1F1FD",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cx.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cx.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/cx.png",
         "dial_code": "+61"
     },
     {
@@ -436,7 +490,8 @@
         "code": "CY",
         "emoji": "🇨🇾",
         "unicode": "U+1F1E8 U+1F1FE",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cy.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cy.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/cy.png",
         "dial_code": "+357"
     },
     {
@@ -444,7 +499,8 @@
         "code": "CZ",
         "emoji": "🇨🇿",
         "unicode": "U+1F1E8 U+1F1FF",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cz.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/cz.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/cz.png",
         "dial_code": "+420"
     },
     {
@@ -452,7 +508,8 @@
         "code": "DE",
         "emoji": "🇩🇪",
         "unicode": "U+1F1E9 U+1F1EA",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/de.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/de.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/de.png",
         "dial_code": "+49"
     },
     {
@@ -460,7 +517,8 @@
         "code": "DJ",
         "emoji": "🇩🇯",
         "unicode": "U+1F1E9 U+1F1EF",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/dj.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/dj.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/dj.png",
         "dial_code": "+253"
     },
     {
@@ -468,7 +526,8 @@
         "code": "DK",
         "emoji": "🇩🇰",
         "unicode": "U+1F1E9 U+1F1F0",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/dk.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/dk.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/dk.png",
         "dial_code": "+45"
     },
     {
@@ -476,7 +535,8 @@
         "code": "DM",
         "emoji": "🇩🇲",
         "unicode": "U+1F1E9 U+1F1F2",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/dm.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/dm.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/dm.png",
         "dial_code": "+1767"
     },
     {
@@ -484,7 +544,8 @@
         "code": "DO",
         "emoji": "🇩🇴",
         "unicode": "U+1F1E9 U+1F1F4",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/do.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/do.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/do.png",
         "dial_code": "+1849"
     },
     {
@@ -492,7 +553,8 @@
         "code": "DZ",
         "emoji": "🇩🇿",
         "unicode": "U+1F1E9 U+1F1FF",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/dz.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/dz.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/dz.png",
         "dial_code": "+213"
     },
     {
@@ -500,7 +562,8 @@
         "code": "EC",
         "emoji": "🇪🇨",
         "unicode": "U+1F1EA U+1F1E8",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ec.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ec.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ec.png",
         "dial_code": "+593"
     },
     {
@@ -508,7 +571,8 @@
         "code": "EE",
         "emoji": "🇪🇪",
         "unicode": "U+1F1EA U+1F1EA",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ee.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ee.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ee.png",
         "dial_code": "+372"
     },
     {
@@ -516,7 +580,8 @@
         "code": "EG",
         "emoji": "🇪🇬",
         "unicode": "U+1F1EA U+1F1EC",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/eg.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/eg.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/eg.png",
         "dial_code": "+20"
     },
     {
@@ -524,7 +589,8 @@
         "code": "EH",
         "emoji": "🇪🇭",
         "unicode": "U+1F1EA U+1F1ED",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/eh.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/eh.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/eh.png",
         "dial_code": "+212"
     },
     {
@@ -532,7 +598,8 @@
         "code": "ER",
         "emoji": "🇪🇷",
         "unicode": "U+1F1EA U+1F1F7",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/er.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/er.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/er.png",
         "dial_code": "+291"
     },
     {
@@ -540,7 +607,8 @@
         "code": "ES",
         "emoji": "🇪🇸",
         "unicode": "U+1F1EA U+1F1F8",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/es.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/es.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/es.png",
         "dial_code": "+34"
     },
     {
@@ -548,7 +616,8 @@
         "code": "ET",
         "emoji": "🇪🇹",
         "unicode": "U+1F1EA U+1F1F9",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/et.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/et.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/et.png",
         "dial_code": "+251"
     },
     {
@@ -556,7 +625,8 @@
         "code": "FI",
         "emoji": "🇫🇮",
         "unicode": "U+1F1EB U+1F1EE",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/fi.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/fi.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/fi.png",
         "dial_code": "+358"
     },
     {
@@ -564,7 +634,8 @@
         "code": "FJ",
         "emoji": "🇫🇯",
         "unicode": "U+1F1EB U+1F1EF",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/fj.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/fj.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/fj.png",
         "dial_code": "+679"
     },
     {
@@ -572,7 +643,8 @@
         "code": "FK",
         "emoji": "🇫🇰",
         "unicode": "U+1F1EB U+1F1F0",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/fk.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/fk.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/fk.png",
         "dial_code": "+500"
     },
     {
@@ -580,7 +652,8 @@
         "code": "FM",
         "emoji": "🇫🇲",
         "unicode": "U+1F1EB U+1F1F2",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/fm.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/fm.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/fm.png",
         "dial_code": "+691"
     },
     {
@@ -588,7 +661,8 @@
         "code": "FO",
         "emoji": "🇫🇴",
         "unicode": "U+1F1EB U+1F1F4",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/fo.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/fo.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/fo.png",
         "dial_code": "+298"
     },
     {
@@ -596,7 +670,8 @@
         "code": "FR",
         "emoji": "🇫🇷",
         "unicode": "U+1F1EB U+1F1F7",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/fr.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/fr.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/fr.png",
         "dial_code": "+33"
     },
     {
@@ -604,7 +679,8 @@
         "code": "GA",
         "emoji": "🇬🇦",
         "unicode": "U+1F1EC U+1F1E6",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ga.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ga.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ga.png",
         "dial_code": "+241"
     },
     {
@@ -612,7 +688,8 @@
         "code": "GB",
         "emoji": "🇬🇧",
         "unicode": "U+1F1EC U+1F1E7",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gb.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gb.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/gb.png",
         "dial_code": "+44"
     },
     {
@@ -620,7 +697,8 @@
         "code": "GD",
         "emoji": "🇬🇩",
         "unicode": "U+1F1EC U+1F1E9",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gd.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gd.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/gd.png",
         "dial_code": "+1473"
     },
     {
@@ -628,7 +706,8 @@
         "code": "GE",
         "emoji": "🇬🇪",
         "unicode": "U+1F1EC U+1F1EA",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ge.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ge.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ge.png",
         "dial_code": "+995"
     },
     {
@@ -636,7 +715,8 @@
         "code": "GF",
         "emoji": "🇬🇫",
         "unicode": "U+1F1EC U+1F1EB",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gf.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gf.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/gf.png",
         "dial_code": "+594"
     },
     {
@@ -644,7 +724,8 @@
         "code": "GG",
         "emoji": "🇬🇬",
         "unicode": "U+1F1EC U+1F1EC",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gg.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gg.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/gg.png",
         "dial_code": "+44"
     },
     {
@@ -652,7 +733,8 @@
         "code": "GH",
         "emoji": "🇬🇭",
         "unicode": "U+1F1EC U+1F1ED",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gh.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gh.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/gh.png",
         "dial_code": "+233"
     },
     {
@@ -660,7 +742,8 @@
         "code": "GI",
         "emoji": "🇬🇮",
         "unicode": "U+1F1EC U+1F1EE",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gi.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gi.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/gi.png",
         "dial_code": "+350"
     },
     {
@@ -668,7 +751,8 @@
         "code": "GL",
         "emoji": "🇬🇱",
         "unicode": "U+1F1EC U+1F1F1",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gl.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gl.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/gl.png",
         "dial_code": "+299"
     },
     {
@@ -676,7 +760,8 @@
         "code": "GM",
         "emoji": "🇬🇲",
         "unicode": "U+1F1EC U+1F1F2",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gm.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gm.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/gm.png",
         "dial_code": "+220"
     },
     {
@@ -684,7 +769,8 @@
         "code": "GN",
         "emoji": "🇬🇳",
         "unicode": "U+1F1EC U+1F1F3",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gn.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gn.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/gn.png",
         "dial_code": "+224"
     },
     {
@@ -692,7 +778,8 @@
         "code": "GP",
         "emoji": "🇬🇵",
         "unicode": "U+1F1EC U+1F1F5",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gp.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gp.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/gp.png",
         "dial_code": "+590"
     },
     {
@@ -700,7 +787,8 @@
         "code": "GQ",
         "emoji": "🇬🇶",
         "unicode": "U+1F1EC U+1F1F6",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gq.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gq.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/gq.png",
         "dial_code": "+240"
     },
     {
@@ -708,7 +796,8 @@
         "code": "GR",
         "emoji": "🇬🇷",
         "unicode": "U+1F1EC U+1F1F7",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gr.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gr.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/gr.png",
         "dial_code": "+30"
     },
     {
@@ -716,7 +805,8 @@
         "code": "GS",
         "emoji": "🇬🇸",
         "unicode": "U+1F1EC U+1F1F8",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gs.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gs.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/gs.png",
         "dial_code": "+500"
     },
     {
@@ -724,7 +814,8 @@
         "code": "GT",
         "emoji": "🇬🇹",
         "unicode": "U+1F1EC U+1F1F9",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gt.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gt.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/gt.png",
         "dial_code": "+502"
     },
     {
@@ -732,7 +823,8 @@
         "code": "GU",
         "emoji": "🇬🇺",
         "unicode": "U+1F1EC U+1F1FA",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gu.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gu.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/gu.png",
         "dial_code": "+1671"
     },
     {
@@ -740,7 +832,8 @@
         "code": "GW",
         "emoji": "🇬🇼",
         "unicode": "U+1F1EC U+1F1FC",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gw.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gw.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/gw.png",
         "dial_code": "+245"
     },
     {
@@ -748,7 +841,8 @@
         "code": "GY",
         "emoji": "🇬🇾",
         "unicode": "U+1F1EC U+1F1FE",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gy.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/gy.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/gy.png",
         "dial_code": "+592"
     },
     {
@@ -756,7 +850,8 @@
         "code": "HK",
         "emoji": "🇭🇰",
         "unicode": "U+1F1ED U+1F1F0",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/hk.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/hk.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/hk.png",
         "dial_code": "+852"
     },
     {
@@ -764,7 +859,8 @@
         "code": "HM",
         "emoji": "🇭🇲",
         "unicode": "U+1F1ED U+1F1F2",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/hm.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/hm.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/hm.png",
         "dial_code": "+672"
     },
     {
@@ -772,7 +868,8 @@
         "code": "HN",
         "emoji": "🇭🇳",
         "unicode": "U+1F1ED U+1F1F3",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/hn.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/hn.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/hn.png",
         "dial_code": "+504"
     },
     {
@@ -780,7 +877,8 @@
         "code": "HR",
         "emoji": "🇭🇷",
         "unicode": "U+1F1ED U+1F1F7",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/hr.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/hr.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/hr.png",
         "dial_code": "+385"
     },
     {
@@ -788,7 +886,8 @@
         "code": "HT",
         "emoji": "🇭🇹",
         "unicode": "U+1F1ED U+1F1F9",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ht.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ht.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ht.png",
         "dial_code": "+509"
     },
     {
@@ -796,7 +895,8 @@
         "code": "HU",
         "emoji": "🇭🇺",
         "unicode": "U+1F1ED U+1F1FA",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/hu.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/hu.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/hu.png",
         "dial_code": "+36"
     },
     {
@@ -804,7 +904,8 @@
         "code": "ID",
         "emoji": "🇮🇩",
         "unicode": "U+1F1EE U+1F1E9",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/id.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/id.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/id.png",
         "dial_code": "+62"
     },
     {
@@ -812,7 +913,8 @@
         "code": "IE",
         "emoji": "🇮🇪",
         "unicode": "U+1F1EE U+1F1EA",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ie.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ie.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ie.png",
         "dial_code": "+353"
     },
     {
@@ -820,7 +922,8 @@
         "code": "IL",
         "emoji": "🇮🇱",
         "unicode": "U+1F1EE U+1F1F1",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/il.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/il.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/il.png",
         "dial_code": "+972"
     },
     {
@@ -828,7 +931,8 @@
         "code": "IM",
         "emoji": "🇮🇲",
         "unicode": "U+1F1EE U+1F1F2",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/im.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/im.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/im.png",
         "dial_code": "+44"
     },
     {
@@ -836,7 +940,8 @@
         "code": "IN",
         "emoji": "🇮🇳",
         "unicode": "U+1F1EE U+1F1F3",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/in.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/in.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/in.png",
         "dial_code": "+91"
     },
     {
@@ -844,7 +949,8 @@
         "code": "IO",
         "emoji": "🇮🇴",
         "unicode": "U+1F1EE U+1F1F4",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/io.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/io.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/io.png",
         "dial_code": "+246"
     },
     {
@@ -852,7 +958,8 @@
         "code": "IQ",
         "emoji": "🇮🇶",
         "unicode": "U+1F1EE U+1F1F6",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/iq.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/iq.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/iq.png",
         "dial_code": "+964"
     },
     {
@@ -860,7 +967,8 @@
         "code": "IR",
         "emoji": "🇮🇷",
         "unicode": "U+1F1EE U+1F1F7",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ir.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ir.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ir.png",
         "dial_code": "+98"
     },
     {
@@ -868,7 +976,8 @@
         "code": "IS",
         "emoji": "🇮🇸",
         "unicode": "U+1F1EE U+1F1F8",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/is.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/is.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/is.png",
         "dial_code": "+354"
     },
     {
@@ -876,7 +985,8 @@
         "code": "IT",
         "emoji": "🇮🇹",
         "unicode": "U+1F1EE U+1F1F9",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/it.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/it.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/it.png",
         "dial_code": "+39"
     },
     {
@@ -884,7 +994,8 @@
         "code": "JE",
         "emoji": "🇯🇪",
         "unicode": "U+1F1EF U+1F1EA",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/je.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/je.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/je.png",
         "dial_code": "+44"
     },
     {
@@ -892,7 +1003,8 @@
         "code": "JM",
         "emoji": "🇯🇲",
         "unicode": "U+1F1EF U+1F1F2",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/jm.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/jm.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/jm.png",
         "dial_code": "+1876"
     },
     {
@@ -900,7 +1012,8 @@
         "code": "JO",
         "emoji": "🇯🇴",
         "unicode": "U+1F1EF U+1F1F4",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/jo.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/jo.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/jo.png",
         "dial_code": "+962"
     },
     {
@@ -908,7 +1021,8 @@
         "code": "JP",
         "emoji": "🇯🇵",
         "unicode": "U+1F1EF U+1F1F5",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/jp.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/jp.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/jp.png",
         "dial_code": "+81"
     },
     {
@@ -916,7 +1030,8 @@
         "code": "KE",
         "emoji": "🇰🇪",
         "unicode": "U+1F1F0 U+1F1EA",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ke.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ke.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ke.png",
         "dial_code": "+254"
     },
     {
@@ -924,7 +1039,8 @@
         "code": "KG",
         "emoji": "🇰🇬",
         "unicode": "U+1F1F0 U+1F1EC",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/kg.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/kg.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/kg.png",
         "dial_code": "+996"
     },
     {
@@ -932,7 +1048,8 @@
         "code": "KH",
         "emoji": "🇰🇭",
         "unicode": "U+1F1F0 U+1F1ED",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/kh.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/kh.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/kh.png",
         "dial_code": "+855"
     },
     {
@@ -940,7 +1057,8 @@
         "code": "KI",
         "emoji": "🇰🇮",
         "unicode": "U+1F1F0 U+1F1EE",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ki.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ki.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ki.png",
         "dial_code": "+686"
     },
     {
@@ -948,7 +1066,8 @@
         "code": "KM",
         "emoji": "🇰🇲",
         "unicode": "U+1F1F0 U+1F1F2",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/km.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/km.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/km.png",
         "dial_code": "+269"
     },
     {
@@ -956,7 +1075,8 @@
         "code": "KN",
         "emoji": "🇰🇳",
         "unicode": "U+1F1F0 U+1F1F3",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/kn.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/kn.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/kn.png",
         "dial_code": "+1869"
     },
     {
@@ -964,7 +1084,8 @@
         "code": "KP",
         "emoji": "🇰🇵",
         "unicode": "U+1F1F0 U+1F1F5",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/kp.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/kp.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/kp.png",
         "dial_code": "+850"
     },
     {
@@ -972,7 +1093,8 @@
         "code": "KR",
         "emoji": "🇰🇷",
         "unicode": "U+1F1F0 U+1F1F7",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/kr.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/kr.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/kr.png",
         "dial_code": "+82"
     },
     {
@@ -980,7 +1102,8 @@
         "code": "KW",
         "emoji": "🇰🇼",
         "unicode": "U+1F1F0 U+1F1FC",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/kw.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/kw.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/kw.png",
         "dial_code": "+965"
     },
     {
@@ -988,7 +1111,8 @@
         "code": "KY",
         "emoji": "🇰🇾",
         "unicode": "U+1F1F0 U+1F1FE",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ky.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ky.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ky.png",
         "dial_code": "+345"
     },
     {
@@ -996,7 +1120,8 @@
         "code": "KZ",
         "emoji": "🇰🇿",
         "unicode": "U+1F1F0 U+1F1FF",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/kz.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/kz.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/kz.png",
         "dial_code": "+7"
     },
     {
@@ -1004,7 +1129,8 @@
         "code": "LA",
         "emoji": "🇱🇦",
         "unicode": "U+1F1F1 U+1F1E6",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/la.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/la.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/la.png",
         "dial_code": "+856"
     },
     {
@@ -1012,7 +1138,8 @@
         "code": "LB",
         "emoji": "🇱🇧",
         "unicode": "U+1F1F1 U+1F1E7",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/lb.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/lb.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/lb.png",
         "dial_code": "+961"
     },
     {
@@ -1020,7 +1147,8 @@
         "code": "LC",
         "emoji": "🇱🇨",
         "unicode": "U+1F1F1 U+1F1E8",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/lc.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/lc.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/lc.png",
         "dial_code": "+1758"
     },
     {
@@ -1028,7 +1156,8 @@
         "code": "LI",
         "emoji": "🇱🇮",
         "unicode": "U+1F1F1 U+1F1EE",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/li.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/li.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/li.png",
         "dial_code": "+423"
     },
     {
@@ -1036,7 +1165,8 @@
         "code": "LK",
         "emoji": "🇱🇰",
         "unicode": "U+1F1F1 U+1F1F0",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/lk.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/lk.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/lk.png",
         "dial_code": "+94"
     },
     {
@@ -1044,7 +1174,8 @@
         "code": "LR",
         "emoji": "🇱🇷",
         "unicode": "U+1F1F1 U+1F1F7",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/lr.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/lr.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/lr.png",
         "dial_code": "+231"
     },
     {
@@ -1052,7 +1183,8 @@
         "code": "LS",
         "emoji": "🇱🇸",
         "unicode": "U+1F1F1 U+1F1F8",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ls.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ls.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ls.png",
         "dial_code": "+266"
     },
     {
@@ -1060,7 +1192,8 @@
         "code": "LT",
         "emoji": "🇱🇹",
         "unicode": "U+1F1F1 U+1F1F9",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/lt.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/lt.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/lt.png",
         "dial_code": "+370"
     },
     {
@@ -1068,7 +1201,8 @@
         "code": "LU",
         "emoji": "🇱🇺",
         "unicode": "U+1F1F1 U+1F1FA",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/lu.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/lu.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/lu.png",
         "dial_code": "+352"
     },
     {
@@ -1076,7 +1210,8 @@
         "code": "LV",
         "emoji": "🇱🇻",
         "unicode": "U+1F1F1 U+1F1FB",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/lv.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/lv.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/lv.png",
         "dial_code": "+371"
     },
     {
@@ -1084,7 +1219,8 @@
         "code": "LY",
         "emoji": "🇱🇾",
         "unicode": "U+1F1F1 U+1F1FE",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ly.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ly.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ly.png",
         "dial_code": "+218"
     },
     {
@@ -1092,7 +1228,8 @@
         "code": "MA",
         "emoji": "🇲🇦",
         "unicode": "U+1F1F2 U+1F1E6",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ma.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ma.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ma.png",
         "dial_code": "+212"
     },
     {
@@ -1100,7 +1237,8 @@
         "code": "MC",
         "emoji": "🇲🇨",
         "unicode": "U+1F1F2 U+1F1E8",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mc.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mc.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/mc.png",
         "dial_code": "+377"
     },
     {
@@ -1108,7 +1246,8 @@
         "code": "MD",
         "emoji": "🇲🇩",
         "unicode": "U+1F1F2 U+1F1E9",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/md.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/md.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/md.png",
         "dial_code": "+373"
     },
     {
@@ -1116,7 +1255,8 @@
         "code": "ME",
         "emoji": "🇲🇪",
         "unicode": "U+1F1F2 U+1F1EA",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/me.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/me.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/me.png",
         "dial_code": "+382"
     },
     {
@@ -1124,7 +1264,8 @@
         "code": "MF",
         "emoji": "🇲🇫",
         "unicode": "U+1F1F2 U+1F1EB",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mf.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mf.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/mf.png",
         "dial_code": "+590"
     },
     {
@@ -1132,7 +1273,8 @@
         "code": "MG",
         "emoji": "🇲🇬",
         "unicode": "U+1F1F2 U+1F1EC",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mg.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mg.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/mg.png",
         "dial_code": "+261"
     },
     {
@@ -1140,7 +1282,8 @@
         "code": "MH",
         "emoji": "🇲🇭",
         "unicode": "U+1F1F2 U+1F1ED",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mh.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mh.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/mh.png",
         "dial_code": "+692"
     },
     {
@@ -1148,7 +1291,8 @@
         "code": "MK",
         "emoji": "🇲🇰",
         "unicode": "U+1F1F2 U+1F1F0",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mk.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mk.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/mk.png",
         "dial_code": "+389"
     },
     {
@@ -1156,7 +1300,8 @@
         "code": "ML",
         "emoji": "🇲🇱",
         "unicode": "U+1F1F2 U+1F1F1",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ml.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ml.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ml.png",
         "dial_code": "+223"
     },
     {
@@ -1164,7 +1309,8 @@
         "code": "MM",
         "emoji": "🇲🇲",
         "unicode": "U+1F1F2 U+1F1F2",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mm.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mm.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/mm.png",
         "dial_code": "+95"
     },
     {
@@ -1172,7 +1318,8 @@
         "code": "MN",
         "emoji": "🇲🇳",
         "unicode": "U+1F1F2 U+1F1F3",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mn.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mn.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/mn.png",
         "dial_code": "+976"
     },
     {
@@ -1180,7 +1327,8 @@
         "code": "MO",
         "emoji": "🇲🇴",
         "unicode": "U+1F1F2 U+1F1F4",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mo.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mo.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/mo.png",
         "dial_code": "+853"
     },
     {
@@ -1188,7 +1336,8 @@
         "code": "MP",
         "emoji": "🇲🇵",
         "unicode": "U+1F1F2 U+1F1F5",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mp.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mp.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/mp.png",
         "dial_code": "+1670"
     },
     {
@@ -1196,7 +1345,8 @@
         "code": "MQ",
         "emoji": "🇲🇶",
         "unicode": "U+1F1F2 U+1F1F6",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mq.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mq.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/mq.png",
         "dial_code": "+596"
     },
     {
@@ -1204,7 +1354,8 @@
         "code": "MR",
         "emoji": "🇲🇷",
         "unicode": "U+1F1F2 U+1F1F7",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mr.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mr.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/mr.png",
         "dial_code": "+222"
     },
     {
@@ -1212,7 +1363,8 @@
         "code": "MS",
         "emoji": "🇲🇸",
         "unicode": "U+1F1F2 U+1F1F8",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ms.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ms.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ms.png",
         "dial_code": "+1664"
     },
     {
@@ -1220,7 +1372,8 @@
         "code": "MT",
         "emoji": "🇲🇹",
         "unicode": "U+1F1F2 U+1F1F9",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mt.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mt.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/mt.png",
         "dial_code": "+356"
     },
     {
@@ -1228,7 +1381,8 @@
         "code": "MU",
         "emoji": "🇲🇺",
         "unicode": "U+1F1F2 U+1F1FA",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mu.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mu.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/mu.png",
         "dial_code": "+230"
     },
     {
@@ -1236,7 +1390,8 @@
         "code": "MV",
         "emoji": "🇲🇻",
         "unicode": "U+1F1F2 U+1F1FB",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mv.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mv.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/mv.png",
         "dial_code": "+960"
     },
     {
@@ -1244,7 +1399,8 @@
         "code": "MW",
         "emoji": "🇲🇼",
         "unicode": "U+1F1F2 U+1F1FC",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mw.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mw.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/mw.png",
         "dial_code": "+265"
     },
     {
@@ -1252,7 +1408,8 @@
         "code": "MX",
         "emoji": "🇲🇽",
         "unicode": "U+1F1F2 U+1F1FD",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mx.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mx.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/mx.png",
         "dial_code": "+52"
     },
     {
@@ -1260,7 +1417,8 @@
         "code": "MY",
         "emoji": "🇲🇾",
         "unicode": "U+1F1F2 U+1F1FE",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/my.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/my.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/my.png",
         "dial_code": "+60"
     },
     {
@@ -1268,7 +1426,8 @@
         "code": "MZ",
         "emoji": "🇲🇿",
         "unicode": "U+1F1F2 U+1F1FF",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mz.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/mz.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/mz.png",
         "dial_code": "+258"
     },
     {
@@ -1276,7 +1435,8 @@
         "code": "NA",
         "emoji": "🇳🇦",
         "unicode": "U+1F1F3 U+1F1E6",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/na.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/na.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/na.png",
         "dial_code": "+264"
     },
     {
@@ -1284,7 +1444,8 @@
         "code": "NC",
         "emoji": "🇳🇨",
         "unicode": "U+1F1F3 U+1F1E8",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/nc.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/nc.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/nc.png",
         "dial_code": "+687"
     },
     {
@@ -1292,7 +1453,8 @@
         "code": "NE",
         "emoji": "🇳🇪",
         "unicode": "U+1F1F3 U+1F1EA",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ne.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ne.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ne.png",
         "dial_code": "+227"
     },
     {
@@ -1300,7 +1462,8 @@
         "code": "NF",
         "emoji": "🇳🇫",
         "unicode": "U+1F1F3 U+1F1EB",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/nf.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/nf.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/nf.png",
         "dial_code": "+672"
     },
     {
@@ -1308,7 +1471,8 @@
         "code": "NG",
         "emoji": "🇳🇬",
         "unicode": "U+1F1F3 U+1F1EC",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ng.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ng.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ng.png",
         "dial_code": "+234"
     },
     {
@@ -1316,7 +1480,8 @@
         "code": "NI",
         "emoji": "🇳🇮",
         "unicode": "U+1F1F3 U+1F1EE",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ni.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ni.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ni.png",
         "dial_code": "+505"
     },
     {
@@ -1324,7 +1489,8 @@
         "code": "NL",
         "emoji": "🇳🇱",
         "unicode": "U+1F1F3 U+1F1F1",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/nl.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/nl.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/nl.png",
         "dial_code": "+31"
     },
     {
@@ -1332,7 +1498,8 @@
         "code": "NO",
         "emoji": "🇳🇴",
         "unicode": "U+1F1F3 U+1F1F4",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/no.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/no.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/no.png",
         "dial_code": "+47"
     },
     {
@@ -1340,7 +1507,8 @@
         "code": "NP",
         "emoji": "🇳🇵",
         "unicode": "U+1F1F3 U+1F1F5",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/np.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/np.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/np.png",
         "dial_code": "+977"
     },
     {
@@ -1348,7 +1516,8 @@
         "code": "NR",
         "emoji": "🇳🇷",
         "unicode": "U+1F1F3 U+1F1F7",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/nr.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/nr.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/nr.png",
         "dial_code": "+674"
     },
     {
@@ -1356,7 +1525,8 @@
         "code": "NU",
         "emoji": "🇳🇺",
         "unicode": "U+1F1F3 U+1F1FA",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/nu.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/nu.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/nu.png",
         "dial_code": "+683"
     },
     {
@@ -1364,7 +1534,8 @@
         "code": "NZ",
         "emoji": "🇳🇿",
         "unicode": "U+1F1F3 U+1F1FF",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/nz.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/nz.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/nz.png",
         "dial_code": "+64"
     },
     {
@@ -1372,7 +1543,8 @@
         "code": "OM",
         "emoji": "🇴🇲",
         "unicode": "U+1F1F4 U+1F1F2",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/om.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/om.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/om.png",
         "dial_code": "+968"
     },
     {
@@ -1380,7 +1552,8 @@
         "code": "PA",
         "emoji": "🇵🇦",
         "unicode": "U+1F1F5 U+1F1E6",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/pa.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/pa.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/pa.png",
         "dial_code": "+507"
     },
     {
@@ -1388,7 +1561,8 @@
         "code": "PE",
         "emoji": "🇵🇪",
         "unicode": "U+1F1F5 U+1F1EA",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/pe.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/pe.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/pe.png",
         "dial_code": "+51"
     },
     {
@@ -1396,7 +1570,8 @@
         "code": "PF",
         "emoji": "🇵🇫",
         "unicode": "U+1F1F5 U+1F1EB",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/pf.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/pf.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/pf.png",
         "dial_code": "+689"
     },
     {
@@ -1404,7 +1579,8 @@
         "code": "PG",
         "emoji": "🇵🇬",
         "unicode": "U+1F1F5 U+1F1EC",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/pg.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/pg.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/pg.png",
         "dial_code": "+675"
     },
     {
@@ -1412,7 +1588,8 @@
         "code": "PH",
         "emoji": "🇵🇭",
         "unicode": "U+1F1F5 U+1F1ED",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ph.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ph.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ph.png",
         "dial_code": "+63"
     },
     {
@@ -1420,7 +1597,8 @@
         "code": "PK",
         "emoji": "🇵🇰",
         "unicode": "U+1F1F5 U+1F1F0",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/pk.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/pk.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/pk.png",
         "dial_code": "+92"
     },
     {
@@ -1428,7 +1606,8 @@
         "code": "PL",
         "emoji": "🇵🇱",
         "unicode": "U+1F1F5 U+1F1F1",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/pl.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/pl.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/pl.png",
         "dial_code": "+48"
     },
     {
@@ -1436,7 +1615,8 @@
         "code": "PM",
         "emoji": "🇵🇲",
         "unicode": "U+1F1F5 U+1F1F2",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/pm.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/pm.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/pm.png",
         "dial_code": "+508"
     },
     {
@@ -1444,7 +1624,8 @@
         "code": "PN",
         "emoji": "🇵🇳",
         "unicode": "U+1F1F5 U+1F1F3",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/pn.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/pn.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/pn.png",
         "dial_code": "+64"
     },
     {
@@ -1452,7 +1633,8 @@
         "code": "PR",
         "emoji": "🇵🇷",
         "unicode": "U+1F1F5 U+1F1F7",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/pr.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/pr.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/pr.png",
         "dial_code": "+1939"
     },
     {
@@ -1460,7 +1642,8 @@
         "code": "PS",
         "emoji": "🇵🇸",
         "unicode": "U+1F1F5 U+1F1F8",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ps.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ps.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ps.png",
         "dial_code": "+970"
     },
     {
@@ -1468,7 +1651,8 @@
         "code": "PT",
         "emoji": "🇵🇹",
         "unicode": "U+1F1F5 U+1F1F9",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/pt.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/pt.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/pt.png",
         "dial_code": "+351"
     },
     {
@@ -1476,7 +1660,8 @@
         "code": "PW",
         "emoji": "🇵🇼",
         "unicode": "U+1F1F5 U+1F1FC",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/pw.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/pw.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/pw.png",
         "dial_code": "+680"
     },
     {
@@ -1484,7 +1669,8 @@
         "code": "PY",
         "emoji": "🇵🇾",
         "unicode": "U+1F1F5 U+1F1FE",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/py.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/py.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/py.png",
         "dial_code": "+595"
     },
     {
@@ -1492,7 +1678,8 @@
         "code": "QA",
         "emoji": "🇶🇦",
         "unicode": "U+1F1F6 U+1F1E6",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/qa.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/qa.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/qa.png",
         "dial_code": "+974"
     },
     {
@@ -1500,7 +1687,8 @@
         "code": "RE",
         "emoji": "🇷🇪",
         "unicode": "U+1F1F7 U+1F1EA",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/re.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/re.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/re.png",
         "dial_code": "+262"
     },
     {
@@ -1508,7 +1696,8 @@
         "code": "RO",
         "emoji": "🇷🇴",
         "unicode": "U+1F1F7 U+1F1F4",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ro.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ro.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ro.png",
         "dial_code": "+40"
     },
     {
@@ -1516,7 +1705,8 @@
         "code": "RS",
         "emoji": "🇷🇸",
         "unicode": "U+1F1F7 U+1F1F8",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/rs.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/rs.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/rs.png",
         "dial_code": "+381"
     },
     {
@@ -1524,7 +1714,8 @@
         "code": "RU",
         "emoji": "🇷🇺",
         "unicode": "U+1F1F7 U+1F1FA",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ru.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ru.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ru.png",
         "dial_code": "+7"
     },
     {
@@ -1532,7 +1723,8 @@
         "code": "RW",
         "emoji": "🇷🇼",
         "unicode": "U+1F1F7 U+1F1FC",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/rw.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/rw.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/rw.png",
         "dial_code": "+250"
     },
     {
@@ -1540,7 +1732,8 @@
         "code": "SA",
         "emoji": "🇸🇦",
         "unicode": "U+1F1F8 U+1F1E6",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sa.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sa.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/sa.png",
         "dial_code": "+966"
     },
     {
@@ -1548,7 +1741,8 @@
         "code": "SB",
         "emoji": "🇸🇧",
         "unicode": "U+1F1F8 U+1F1E7",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sb.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sb.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/sb.png",
         "dial_code": "+677"
     },
     {
@@ -1556,7 +1750,8 @@
         "code": "SC",
         "emoji": "🇸🇨",
         "unicode": "U+1F1F8 U+1F1E8",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sc.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sc.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/sc.png",
         "dial_code": "+248"
     },
     {
@@ -1564,7 +1759,8 @@
         "code": "SD",
         "emoji": "🇸🇩",
         "unicode": "U+1F1F8 U+1F1E9",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sd.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sd.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/sd.png",
         "dial_code": "+249"
     },
     {
@@ -1572,7 +1768,8 @@
         "code": "SE",
         "emoji": "🇸🇪",
         "unicode": "U+1F1F8 U+1F1EA",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/se.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/se.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/se.png",
         "dial_code": "+46"
     },
     {
@@ -1580,7 +1777,8 @@
         "code": "SG",
         "emoji": "🇸🇬",
         "unicode": "U+1F1F8 U+1F1EC",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sg.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sg.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/sg.png",
         "dial_code": "+65"
     },
     {
@@ -1588,7 +1786,8 @@
         "code": "SH",
         "emoji": "🇸🇭",
         "unicode": "U+1F1F8 U+1F1ED",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sh.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sh.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/sh.png",
         "dial_code": "+290"
     },
     {
@@ -1596,7 +1795,8 @@
         "code": "SI",
         "emoji": "🇸🇮",
         "unicode": "U+1F1F8 U+1F1EE",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/si.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/si.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/si.png",
         "dial_code": "+386"
     },
     {
@@ -1604,7 +1804,8 @@
         "code": "SJ",
         "emoji": "🇸🇯",
         "unicode": "U+1F1F8 U+1F1EF",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sj.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sj.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/sj.png",
         "dial_code": "+47"
     },
     {
@@ -1612,7 +1813,8 @@
         "code": "SK",
         "emoji": "🇸🇰",
         "unicode": "U+1F1F8 U+1F1F0",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sk.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sk.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/sk.png",
         "dial_code": "+421"
     },
     {
@@ -1620,7 +1822,8 @@
         "code": "SL",
         "emoji": "🇸🇱",
         "unicode": "U+1F1F8 U+1F1F1",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sl.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sl.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/sl.png",
         "dial_code": "+232"
     },
     {
@@ -1628,7 +1831,8 @@
         "code": "SM",
         "emoji": "🇸🇲",
         "unicode": "U+1F1F8 U+1F1F2",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sm.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sm.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/sm.png",
         "dial_code": "+378"
     },
     {
@@ -1636,7 +1840,8 @@
         "code": "SN",
         "emoji": "🇸🇳",
         "unicode": "U+1F1F8 U+1F1F3",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sn.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sn.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/sn.png",
         "dial_code": "+221"
     },
     {
@@ -1644,7 +1849,8 @@
         "code": "SO",
         "emoji": "🇸🇴",
         "unicode": "U+1F1F8 U+1F1F4",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/so.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/so.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/so.png",
         "dial_code": "+252"
     },
     {
@@ -1652,7 +1858,8 @@
         "code": "SR",
         "emoji": "🇸🇷",
         "unicode": "U+1F1F8 U+1F1F7",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sr.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sr.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/sr.png",
         "dial_code": "+597"
     },
     {
@@ -1660,7 +1867,8 @@
         "code": "SS",
         "emoji": "🇸🇸",
         "unicode": "U+1F1F8 U+1F1F8",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ss.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ss.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ss.png",
         "dial_code": "+211"
     },
     {
@@ -1668,7 +1876,8 @@
         "code": "ST",
         "emoji": "🇸🇹",
         "unicode": "U+1F1F8 U+1F1F9",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/st.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/st.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/st.png",
         "dial_code": "+239"
     },
     {
@@ -1676,7 +1885,8 @@
         "code": "SV",
         "emoji": "🇸🇻",
         "unicode": "U+1F1F8 U+1F1FB",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sv.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sv.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/sv.png",
         "dial_code": "+503"
     },
     {
@@ -1684,7 +1894,8 @@
         "code": "SX",
         "emoji": "🇸🇽",
         "unicode": "U+1F1F8 U+1F1FD",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sx.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sx.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/sx.png",
         "dial_code": "+721"
     },
     {
@@ -1692,7 +1903,8 @@
         "code": "SY",
         "emoji": "🇸🇾",
         "unicode": "U+1F1F8 U+1F1FE",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sy.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sy.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/sy.png",
         "dial_code": "+963"
     },
     {
@@ -1700,7 +1912,8 @@
         "code": "SZ",
         "emoji": "🇸🇿",
         "unicode": "U+1F1F8 U+1F1FF",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sz.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/sz.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/sz.png",
         "dial_code": "+268"
     },
     {
@@ -1708,7 +1921,8 @@
         "code": "TC",
         "emoji": "🇹🇨",
         "unicode": "U+1F1F9 U+1F1E8",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tc.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tc.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/tc.png",
         "dial_code": "+1649"
     },
     {
@@ -1716,7 +1930,8 @@
         "code": "TD",
         "emoji": "🇹🇩",
         "unicode": "U+1F1F9 U+1F1E9",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/td.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/td.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/td.png",
         "dial_code": "+235"
     },
     {
@@ -1724,7 +1939,8 @@
         "code": "TF",
         "emoji": "🇹🇫",
         "unicode": "U+1F1F9 U+1F1EB",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tf.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tf.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/tf.png",
         "dial_code": "+262"
     },
     {
@@ -1732,7 +1948,8 @@
         "code": "TG",
         "emoji": "🇹🇬",
         "unicode": "U+1F1F9 U+1F1EC",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tg.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tg.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/tg.png",
         "dial_code": "+228"
     },
     {
@@ -1740,7 +1957,8 @@
         "code": "TH",
         "emoji": "🇹🇭",
         "unicode": "U+1F1F9 U+1F1ED",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/th.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/th.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/th.png",
         "dial_code": "+66"
     },
     {
@@ -1748,7 +1966,8 @@
         "code": "TJ",
         "emoji": "🇹🇯",
         "unicode": "U+1F1F9 U+1F1EF",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tj.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tj.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/tj.png",
         "dial_code": "+992"
     },
     {
@@ -1756,7 +1975,8 @@
         "code": "TK",
         "emoji": "🇹🇰",
         "unicode": "U+1F1F9 U+1F1F0",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tk.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tk.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/tk.png",
         "dial_code": "+690"
     },
     {
@@ -1764,7 +1984,8 @@
         "code": "TL",
         "emoji": "🇹🇱",
         "unicode": "U+1F1F9 U+1F1F1",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tl.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tl.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/tl.png",
         "dial_code": "+670"
     },
     {
@@ -1772,7 +1993,8 @@
         "code": "TM",
         "emoji": "🇹🇲",
         "unicode": "U+1F1F9 U+1F1F2",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tm.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tm.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/tm.png",
         "dial_code": "+993"
     },
     {
@@ -1780,7 +2002,8 @@
         "code": "TN",
         "emoji": "🇹🇳",
         "unicode": "U+1F1F9 U+1F1F3",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tn.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tn.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/tn.png",
         "dial_code": "+216"
     },
     {
@@ -1788,7 +2011,8 @@
         "code": "TO",
         "emoji": "🇹🇴",
         "unicode": "U+1F1F9 U+1F1F4",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/to.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/to.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/to.png",
         "dial_code": "+676"
     },
     {
@@ -1796,7 +2020,8 @@
         "code": "TR",
         "emoji": "🇹🇷",
         "unicode": "U+1F1F9 U+1F1F7",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tr.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tr.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/tr.png",
         "dial_code": "+90"
     },
     {
@@ -1804,7 +2029,8 @@
         "code": "TT",
         "emoji": "🇹🇹",
         "unicode": "U+1F1F9 U+1F1F9",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tt.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tt.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/tt.png",
         "dial_code": "+1868"
     },
     {
@@ -1812,7 +2038,8 @@
         "code": "TV",
         "emoji": "🇹🇻",
         "unicode": "U+1F1F9 U+1F1FB",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tv.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tv.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/tv.png",
         "dial_code": "+688"
     },
     {
@@ -1820,7 +2047,8 @@
         "code": "TW",
         "emoji": "🇹🇼",
         "unicode": "U+1F1F9 U+1F1FC",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tw.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tw.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/tw.png",
         "dial_code": "+886"
     },
     {
@@ -1828,7 +2056,8 @@
         "code": "TZ",
         "emoji": "🇹🇿",
         "unicode": "U+1F1F9 U+1F1FF",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tz.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/tz.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/tz.png",
         "dial_code": "+255"
     },
     {
@@ -1836,7 +2065,8 @@
         "code": "UA",
         "emoji": "🇺🇦",
         "unicode": "U+1F1FA U+1F1E6",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ua.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ua.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ua.png",
         "dial_code": "+380"
     },
     {
@@ -1844,7 +2074,8 @@
         "code": "UG",
         "emoji": "🇺🇬",
         "unicode": "U+1F1FA U+1F1EC",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ug.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ug.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ug.png",
         "dial_code": "+256"
     },
     {
@@ -1852,7 +2083,8 @@
         "code": "US",
         "emoji": "🇺🇸",
         "unicode": "U+1F1FA U+1F1F8",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/us.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/us.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/us.png",
         "dial_code": "+1"
     },
     {
@@ -1860,7 +2092,8 @@
         "code": "UY",
         "emoji": "🇺🇾",
         "unicode": "U+1F1FA U+1F1FE",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/uy.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/uy.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/uy.png",
         "dial_code": "+598"
     },
     {
@@ -1868,7 +2101,8 @@
         "code": "UZ",
         "emoji": "🇺🇿",
         "unicode": "U+1F1FA U+1F1FF",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/uz.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/uz.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/uz.png",
         "dial_code": "+998"
     },
     {
@@ -1876,7 +2110,8 @@
         "code": "VA",
         "emoji": "🇻🇦",
         "unicode": "U+1F1FB U+1F1E6",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/va.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/va.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/va.png",
         "dial_code": "+379"
     },
     {
@@ -1884,7 +2119,8 @@
         "code": "VC",
         "emoji": "🇻🇨",
         "unicode": "U+1F1FB U+1F1E8",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/vc.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/vc.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/vc.png",
         "dial_code": "+1784"
     },
     {
@@ -1892,7 +2128,8 @@
         "code": "VE",
         "emoji": "🇻🇪",
         "unicode": "U+1F1FB U+1F1EA",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ve.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ve.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ve.png",
         "dial_code": "+58"
     },
     {
@@ -1900,7 +2137,8 @@
         "code": "VG",
         "emoji": "🇻🇬",
         "unicode": "U+1F1FB U+1F1EC",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/vg.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/vg.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/vg.png",
         "dial_code": "+1284"
     },
     {
@@ -1908,7 +2146,8 @@
         "code": "VI",
         "emoji": "🇻🇮",
         "unicode": "U+1F1FB U+1F1EE",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/vi.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/vi.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/vi.png",
         "dial_code": "+1340"
     },
     {
@@ -1916,7 +2155,8 @@
         "code": "VN",
         "emoji": "🇻🇳",
         "unicode": "U+1F1FB U+1F1F3",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/vn.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/vn.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/vn.png",
         "dial_code": "+84"
     },
     {
@@ -1924,7 +2164,8 @@
         "code": "VU",
         "emoji": "🇻🇺",
         "unicode": "U+1F1FB U+1F1FA",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/vu.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/vu.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/vu.png",
         "dial_code": "+678"
     },
     {
@@ -1932,7 +2173,8 @@
         "code": "WF",
         "emoji": "🇼🇫",
         "unicode": "U+1F1FC U+1F1EB",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/wf.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/wf.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/wf.png",
         "dial_code": "+681"
     },
     {
@@ -1940,7 +2182,8 @@
         "code": "WS",
         "emoji": "🇼🇸",
         "unicode": "U+1F1FC U+1F1F8",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ws.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ws.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ws.png",
         "dial_code": "+685"
     },
     {
@@ -1948,7 +2191,8 @@
         "code": "XK",
         "emoji": "🇽🇰",
         "unicode": "U+1F1FD U+1F1F0",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/xk.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/xk.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/xk.png",
         "dial_code": "+383"
     },
     {
@@ -1956,7 +2200,8 @@
         "code": "YE",
         "emoji": "🇾🇪",
         "unicode": "U+1F1FE U+1F1EA",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ye.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/ye.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/ye.png",
         "dial_code": "+967"
     },
     {
@@ -1964,7 +2209,8 @@
         "code": "YT",
         "emoji": "🇾🇹",
         "unicode": "U+1F1FE U+1F1F9",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/yt.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/yt.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/yt.png",
         "dial_code": "+262"
     },
     {
@@ -1972,7 +2218,8 @@
         "code": "ZA",
         "emoji": "🇿🇦",
         "unicode": "U+1F1FF U+1F1E6",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/za.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/za.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/za.png",
         "dial_code": "+27"
     },
     {
@@ -1980,7 +2227,8 @@
         "code": "ZM",
         "emoji": "🇿🇲",
         "unicode": "U+1F1FF U+1F1F2",
-        "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/zm.png",
+        "old_image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/zm.png",
+        "image": "https://storage.gazellewall.com/Website-Data/countries/zm.png",
         "dial_code": "+260"
     },
     {
@@ -1988,6 +2236,7 @@
         "code": "ZW",
         "emoji": "🇿🇼",
         "unicode": "U+1F1FF U+1F1FC",
+      https://storage.gazellewall.com/Website-Data/countries/ies/main/images/zw.png",
         "image": "https://raw.githubusercontent.com/sheryanshgolchha/countries/main/images/zw.png",
         "dial_code": "+263"
     }
